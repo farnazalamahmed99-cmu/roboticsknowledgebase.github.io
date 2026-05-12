@@ -331,6 +331,8 @@ wiki:
         url: /wiki/interfacing/ros1-ros2-bridge/
       - title: Interfacing Streamlit, ROS2, and HTML/CSS/JS for visualization
         url: /wiki/interfacing/interfacing-streamlit-ros2-and-html-css-js-for-visualization/
+      - title: "CAN Protocol"
+        url: /wiki/interfacing/controller-area-network-can/
   - title: Computing
     url: /wiki/computing/
     children:
